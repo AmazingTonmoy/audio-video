@@ -9,9 +9,9 @@ audio{
     background-color: green;
 }
 
-#audio-song svg{
+/* #audio-song svg{
     fill: red;
-}
+} */
 
 h2,h1{
     
@@ -24,5 +24,5 @@ h2,h1{
 #audio-song,#video-song{
 
     text-align: center;
-    ba
+    
 }
