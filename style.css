@@ -1,0 +1,29 @@
+video{
+margin: 0 auto;
+display: block;
+}
+
+audio{
+    margin: 0 auto;
+    display: block;
+    background-color: green;
+    
+}
+
+#audio-song svg{
+    fill: red;
+}
+
+h2,h1{
+    
+    color: #ffffff;
+    background-color: #000000;
+  display: inline;
+  padding: 10px;
+}
+
+#audio-song,#video-song{
+
+    text-align: center;
+    ba
+}
