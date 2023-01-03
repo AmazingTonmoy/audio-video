@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+}
+
+
 video{
 margin: 0 auto;
 display: block;
@@ -7,22 +12,37 @@ audio{
     margin: 0 auto;
     display: block;
     background-color: green;
+    text-decoration: none;
+
+
+    
+    
+    
 }
 
-/* #audio-song svg{
-    fill: red;
-} */
+#audio-song audio{
+    
+   color;blue
+}
 
-h2,h1{
+h1{
     
     color: #ffffff;
     background-color: #000000;
-  display: inline;
+  display: inline-block;
   padding: 10px;
+  margin: 12px ;
+    color: red;
+  
 }
 
-#audio-song,#video-song{
+#audio-song{
 
     text-align: center;
+  
     
+}
+
+#video-song{
+    text-align: center;
 }
